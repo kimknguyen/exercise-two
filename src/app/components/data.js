@@ -1,4 +1,5 @@
-[
+export default [
+    
     {
       "id": "article-one",
       "title": "Article One: First Fake Article",
