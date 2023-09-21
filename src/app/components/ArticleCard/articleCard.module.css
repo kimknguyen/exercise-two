@@ -1,0 +1,24 @@
+.articleCard{
+    align-items: center;
+    border: 2px solid black; 
+    column-gap: 5px;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 2fr 2fr;
+    margin-bottom: 20px;
+    padding: 20px; 
+}
+
+.articleCardImage{
+    max-width: 200px; 
+}
+
+.articleCardImage img{
+    height: auto;
+    width: 100%;
+}
+
+.articleCardContent{
+    flex-shrink: 0;
+
+}
