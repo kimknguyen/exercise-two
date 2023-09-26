@@ -16,6 +16,7 @@ export default function Home(){
                  imageAlt={article.image.alt}
                  imageSrc={article.image.url}
                  title={article.title}
+                 id={article.id}
                  /> 
             ))}
           
