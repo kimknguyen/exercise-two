@@ -1,8 +1,11 @@
 .articleCard{
     align-items: center;
-    border: 2px solid black; 
+    background-color:  #CBC0D3;
+    border-radius: 25px; 
+    border: 5px solid #8E9AAF; 
     column-gap: 5px;
     display: grid;
+   
     gap: 20px;
     grid-template-columns: 1fr 2fr 2fr;
     margin-bottom: 20px;

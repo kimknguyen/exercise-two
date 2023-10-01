@@ -27,7 +27,7 @@ export default [
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://nystudio107.com/img/blog/_1200x675_crop_center-center_82_line/css-background-image.jpg",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Sep 04 2019 17:04:38 GMT-0400"
@@ -59,7 +59,7 @@ export default [
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://i.pinimg.com/564x/ed/1a/4e/ed1a4e32991670a07b649065932320ca.jpg",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Sep 05 2019 10:04:38 GMT-0400"
@@ -91,7 +91,7 @@ export default [
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://i.pinimg.com/564x/b5/04/41/b50441f456e162ee3fb651898d20324a.jpg",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Sep 06 2019 18:04:38 GMT-0400"
@@ -123,7 +123,7 @@ export default [
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://i.pinimg.com/564x/cd/15/57/cd15576e00fe3831eba855a69fd9b1f1.jpg",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Aug 08 2019 12:04:38 GMT-0400"
@@ -155,7 +155,7 @@ export default [
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://i.pinimg.com/564x/ac/a7/c9/aca7c96ee350c325f0b41e4564b3694d.jpg",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Aug 10 2019 12:04:38 GMT-0400"
@@ -195,7 +195,7 @@ export default [
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://i.pinimg.com/564x/d2/f9/f5/d2f9f54a666501a9b82186f8237fe059.jpg",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Aug 22 2019 17:04:38 GMT-0400"
